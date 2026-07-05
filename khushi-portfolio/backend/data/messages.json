@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1783177629608,
+    "name": "Test",
+    "email": "t@test.com",
+    "message": "hi",
+    "receivedAt": "2026-07-04T15:07:09.608Z"
+  },
+  {
+    "id": 1783177941282,
+    "name": "Test",
+    "email": "t@test.com",
+    "message": "hi",
+    "receivedAt": "2026-07-04T15:12:21.282Z"
+  }
+]

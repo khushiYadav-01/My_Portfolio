@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "category": "nlp",
+    "categoryLabel": "NLP",
+    "title": "Support-ticket triage model",
+    "description": "Fine-tuned a classifier to route incoming tickets to the right team before a human opens them. Cut average response time by 41%.",
+    "stack": ["PyTorch", "BERT", "FastAPI"],
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "category": "nlp",
+    "categoryLabel": "NLP",
+    "title": "Internal RAG assistant",
+    "description": "Retrieval-augmented chatbot over internal docs, answering 1,200+ employee queries a week.",
+    "stack": ["LangChain", "pgvector", "OpenAI API"],
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "category": "data",
+    "categoryLabel": "Data / MLOps",
+    "title": "Demand forecasting pipeline",
+    "description": "Replaced a spreadsheet forecast with a scheduled model pipeline feeding inventory decisions. Stockouts down 18%.",
+    "stack": ["SQL", "Airflow", "scikit-learn"],
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "category": "cv",
+    "categoryLabel": "Computer Vision",
+    "title": "Defect detection on a production line",
+    "description": "Trained a lightweight vision model to flag defective parts in real time from factory camera feeds.",
+    "stack": ["PyTorch", "OpenCV", "ONNX"],
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "category": "nlp",
+    "categoryLabel": "NLP",
+    "title": "Resume-to-role matcher",
+    "description": "Embedding-based search that ranks candidate resumes against open roles for a recruiting team.",
+    "stack": ["Sentence-BERT", "FAISS", "Flask"],
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "category": "data",
+    "categoryLabel": "Data / MLOps",
+    "title": "Model monitoring dashboard",
+    "description": "Built drift and performance monitoring for five production models, catching two silent failures early.",
+    "stack": ["Python", "Grafana", "Docker"],
+    "link": "#"
+  }
+]
